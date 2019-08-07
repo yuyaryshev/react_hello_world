@@ -5,8 +5,8 @@
   "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "web_server": "cls && webpack-dev-server --config webpack.react.config.js",
-    "web_server2": "cls && webpack-dev-server --config webpack.react.config.js --open"
+    "start": "cls && webpack-dev-server --config webpack.react.config.js --open",
+    "web_server": "cls && webpack-dev-server --config webpack.react.config.js --open"
   },
   "keywords": [
     "react",
