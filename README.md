@@ -7,6 +7,10 @@ An example project: React and MobX, bundled with Webpack
 
 Other tutorial references:
 
+Ссылки для тренинга:
+
+https://habr.com/ru/company/ruvds/blog/432636/
+
 https://habr.com/ru/post/445438/
 https://pwa-starter-kit.polymer-project.org/setup
 https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4
